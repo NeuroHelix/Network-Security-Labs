@@ -1,5 +1,5 @@
 # Network-Security
-Can you hack it? 
+Can you hack it? Packet tracer labs for a variety of vulns.
 ## READ ME FIRST ##
 
 You will need cisco packet tracer to run these lab files. Download it here: https://www.netacad.com/courses/packet-tracer
