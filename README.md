@@ -1,4 +1,4 @@
-# Network-Security
+# Network-Security Labs
 Can you hack it? Packet tracer labs for a variety of vulns.
 ## READ ME FIRST ##
 
